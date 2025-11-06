@@ -1,0 +1,518 @@
+[
+  {
+    "name": "Jitendra Mohan",
+    "designation": "Professor",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Shweta Srivastavá",
+    "designation": "Professor",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Sajai Vir SIngh",
+    "designation": "Professor",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Vivek Dwivedl",
+    "designation": "Professor",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Vineet Khandelwal",
+    "designation": "Professor",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Ashish Goel",
+    "designation": "Professor",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Vijay Khare",
+    "designation": "Professor",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Jasmine Saini",
+    "designation": "Professor",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Alok Joshi",
+    "designation": "Professor",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Bhartendu Chaturvedl",
+    "designation": "Professor",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Megha Agarwal",
+    "designation": "Professor",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Richa Gupta",
+    "designation": "Professor",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Shamim Akhter",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Madhu Jain",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Kapil Dev Tyagi",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Garima Kapur",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Rahul Kaushlk",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Satyendra Kumar",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Ashish Gupta",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Gaurav Verma",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Hemant Kumar",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Juhl Gupta",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Pankaj Kumar Yadav",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Archana Pandey",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Priyanka Kwatra",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Raghvenda Kumar Singh",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Pimmy Gandotra",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Varun Goel",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Divya Kaushlk",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Joysmita Chatterjee",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Rishibrind Kumar",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Vishal Narain Saxena",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Shivani Upadhyay",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Abhijeet Upadhya",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Nitin Muchhal",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Monika",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Smriti Bhatnagar",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Atul Kumar Srivastava",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Nisha Venkatesh",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Ritesh Kumar Sharma",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Jyoti Vyas",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "B. Suresh",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Nitesh Kumar",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Chandan Kumar",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Madhu Jhariya",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Niraj Kumar",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Satya Narayan Patel",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Rahul Kumar",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Shwetabh Singh",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Prakash Chandra Gupta",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Aanchal Agarwal",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Manika Jha",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Amrita Kaul",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Kumar Mohit",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Astha Sharma",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Ravi Prakash Verma",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Jyoti Deshwal Yadav",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Abhay Pratap Singh",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Valshali Sharma",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Nidhi Tewari",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Jyotl Mishra",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Bhuvaneshwarl. S",
+    "designation": "Assistant Professor (Grade II)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Saurabh Chaturvedl",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Shruti Kalra",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Dr.Reema Budhiraja",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Rachna Singh",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Neetu Joshl",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Parul Arora",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Ruby Beniwal",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Kuldeep Baderia",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Ajay Kumar",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Bajrang Bansal",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Yogesh Kumar",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Prabhakar Jha",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Gaurav Khanna",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Atul Kumar",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Abhishek Kashyap",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Vimal Kumar Mishra",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Samriti Kalla",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Ankur Bhardwa",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Ritu Raj",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Shradha Saxena",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Mandeep Narula",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Bhawna Gupta",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Abhay Kumar",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  },
+  {
+    "name": "Vinay Anand Tikkiwal",
+    "designation": "Assistant Professor (Senior Grade)",
+    "department": "CS & IT",
+    "location": "ABB-2 4th Floor"
+  }
+]
