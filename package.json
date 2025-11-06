@@ -1,0 +1,23 @@
+{
+  "name": "the-algoholics-",
+  "version": "1.0.0",
+  "description": "JIIT Faculty Finder Portal",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebyaru/The-Algoholics-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codebyaru/The-Algoholics-/issues"
+  },
+  "homepage": "https://github.com/codebyaru/The-Algoholics-#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
