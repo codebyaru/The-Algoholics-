@@ -326,7 +326,7 @@
     "location": "Cabin No: 222 (b), 2nd Floor, ABB-III",
     "email": "dr..aastha.maheshwari@jiit.ac.in",
     "description": "Expert in data mining. Published several papers in reputed journals. Research interests include machine learning and innovation in CSE & IT.",
-    "photo": "images/dr_aastha_maheshwari.jpg",
+    "photo": "images\\astha pic.jpg",
     "availability": true
   },
   {
@@ -337,7 +337,7 @@
     "location": "Cabin No: 8, B Block, 2nd Floor",
     "email": "dr..aditi.sharma@jiit.ac.in",
     "description": "Expert in research and innovation. Published several papers in reputed journals. Research interests include research and innovation and innovation in General Studies.",
-    "photo": "images/dr_aditi_sharma.jpg",
+    "photo": "images\\aditisharma.png",
     "availability": false
   },
   {
@@ -348,7 +348,7 @@
     "location": "Cabin No: Project Lab (CSE), 1st Floor",
     "email": "dr..akash.kumar@jiit.ac.in",
     "description": "Expert in research and innovation. Published several papers in reputed journals. Research interests include research and innovation and innovation in General Studies.",
-    "photo": "images/dr_akash_kumar.jpg",
+    "photo": "images\\akash.jpg",
     "availability": false
   },
   {
@@ -359,7 +359,7 @@
     "location": "Cabin No: 216 (b), 2nd Floor, ABB-III",
     "email": "dr..alka.singhal@jiit.ac.in",
     "description": "Expert in data mining. Published several papers in reputed journals. Research interests include software engineering and innovation in CSE & IT.",
-    "photo": "images/dr_alka_singhal.jpg",
+    "photo": "images\\AlkaSinghal.png",
     "availability": false
   },
   {
@@ -370,7 +370,7 @@
     "location": "Cabin No: 218 (b), 2nd Floor, ABB-III",
     "email": "dr..amanpreet.kaur@jiit.ac.in",
     "description": "Expert in data mining. Published several papers in reputed journals. Research interests include AI applications and innovation in CSE & IT.",
-    "photo": "images/dr_amanpreet_kaur.jpg",
+    "photo": "images\\Amanpreet.jpg",
     "availability": false
   },
   {
@@ -381,7 +381,7 @@
     "location": "Cabin No: 226 (b), 2nd Floor, ABB-III",
     "email": "dr..amarjeet.prajapati@jiit.ac.in",
     "description": "Expert in data mining. Published several papers in reputed journals. Research interests include data mining and innovation in CSE & IT.",
-    "photo": "images/dr_amarjeet_prajapati.jpg",
+    "photo": "images\\amarjeetprajapati_0.jpg",
     "availability": true
   },
   {
@@ -920,7 +920,7 @@
     "location": "ABB-2 4th Floor",
     "email": "dr..alok.joshi@jiit.ac.in",
     "description": "Expert in VLSI design. Published several papers in reputed journals. Research interests include embedded systems and innovation in ECE.",
-    "photo": "images/dr_alok_joshi.jpg",
+    "photo": "images\\ECE Alok Joshi.jpeg",
     "availability": true
   },
   {
@@ -1195,7 +1195,7 @@
     "location": "ABB-2 4th Floor",
     "email": "dr..abhijeet.upadhya@jiit.ac.in",
     "description": "Expert in embedded systems. Published several papers in reputed journals. Research interests include signal processing and innovation in ECE.",
-    "photo": "images/dr_abhijeet_upadhya.jpg",
+    "photo": "images\\abhijeet foto.jpg",
     "availability": true
   },
   {
@@ -1382,7 +1382,7 @@
     "location": "ABB-2 4th Floor",
     "email": "dr..aanchal.agarwal@jiit.ac.in",
     "description": "Expert in wireless communication. Published several papers in reputed journals. Research interests include embedded systems and innovation in ECE.",
-    "photo": "images/dr_aanchal_agarwal.jpg",
+    "photo": "images\\aanchal pic.jpg",
     "availability": false
   },
   {
@@ -1459,7 +1459,7 @@
     "location": "ABB-2 4th Floor",
     "email": "dr..abhay.pratap.singh@jiit.ac.in",
     "description": "Expert in wireless communication. Published several papers in reputed journals. Research interests include VLSI design and innovation in ECE.",
-    "photo": "images/dr_abhay_pratap_singh.jpg",
+    "photo": "images\\abhay pic.jpg",
     "availability": true
   },
   {
@@ -1602,7 +1602,7 @@
     "location": "ABB-2 4th Floor",
     "email": "dr..ajay.kumar@jiit.ac.in",
     "description": "Expert in wireless communication. Published several papers in reputed journals. Research interests include signal processing and innovation in ECE.",
-    "photo": "images/dr_ajay_kumar.jpg",
+    "photo": "images\\Ajay-Kumar.jpg",
     "availability": true
   },
   {
@@ -1668,7 +1668,7 @@
     "location": "ABB-2 4th Floor",
     "email": "dr..abhishek.kashyap@jiit.ac.in",
     "description": "Expert in wireless communication. Published several papers in reputed journals. Research interests include embedded systems and innovation in ECE.",
-    "photo": "images/dr_abhishek_kashyap.jpg",
+    "photo": "images\\ECE Abhishek Kashyap.jpeg",
     "availability": true
   },
   {
@@ -1756,7 +1756,7 @@
     "location": "ABB-2 4th Floor",
     "email": "dr..abhay.kumar@jiit.ac.in",
     "description": "Expert in embedded systems. Published several papers in reputed journals. Research interests include wireless communication and innovation in ECE.",
-    "photo": "images/dr_abhay_kumar.jpg",
+    "photo": "images\\ECE Abhay Kumar.jpeg",
     "availability": false
   },
   {
@@ -1789,7 +1789,7 @@
     "location": "ABB-1 1st Floor",
     "email": "dr..ankit.mathur@jiit.ac.in",
     "description": "Expert in numerical methods. Published several papers in reputed journals. Research interests include optimization and innovation in Mathematics.",
-    "photo": "images/dr_ankit_mathur.jpg",
+    "photo": "images\\Ankit Photo.jpg",
     "availability": false
   },
   {
@@ -1943,7 +1943,7 @@
     "location": "ABB-1 1st Floor",
     "email": "dr..anuj.bhardwaj@jiit.ac.in",
     "description": "Expert in applied mathematics. Published several papers in reputed journals. Research interests include data analysis and innovation in Mathematics.",
-    "photo": "images/dr_anuj_bhardwaj.jpg",
+    "photo": "images\\MA Anuj Bhardwaj.jpeg",
     "availability": false
   },
   {
@@ -2097,7 +2097,7 @@
     "location": "ABB-1 2nd Floor",
     "email": "dr..anirudh.sharma@jiit.ac.in",
     "description": "Expert in applied mathematics. Published several papers in reputed journals. Research interests include applied mathematics and innovation in Mathematics.",
-    "photo": "images/dr_anirudh_sharma.jpg",
+    "photo": "images\\fac1_0.jpg",
     "availability": false
   },
   {
@@ -2141,7 +2141,7 @@
     "location": "ABB-1 2nd Floor",
     "email": "dr..ashish.bhatnagar@jiit.ac.in",
     "description": "Expert in optimization. Published several papers in reputed journals. Research interests include data analysis and innovation in Mathematics.",
-    "photo": "images/dr_ashish_bhatnagar.jpg",
+    "photo": "images\\Dr, Ashish Bhatnagar.jpg",
     "availability": false
   },
   {
