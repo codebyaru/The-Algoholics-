@@ -144,9 +144,33 @@ function closeModal() {
 function filterFaculty() {
   const searchTerm = searchInput.value.toLowerCase().trim();
   
+  // Normalize and map department names so aliases like "Maths" match "Mathematics"
+  function normalizeDeptName(name) {
+    if (!name) return '';
+    return name.toString().toLowerCase().replace(/&/g, 'and').replace(/[^a-z0-9 ]+/g, '').trim();
+  }
+
+  function canonicalDept(name) {
+    const n = normalizeDeptName(name);
+    // simple alias map — extend if you have more mismatches
+    const aliases = {
+      'maths': 'mathematics',
+      'math': 'mathematics'
+    };
+    return aliases[n] || n;
+  }
+
+  const normalizedCurrent = canonicalDept(currentDepartment);
+
   filteredFaculty = allFaculty.filter(faculty => {
     const matchesSearch = faculty.name.toLowerCase().includes(searchTerm);
-    const matchesDepartment = currentDepartment === 'All' || faculty.department === currentDepartment;
+    const facultyDeptCanonical = canonicalDept(faculty.department);
+
+    const matchesDepartment = currentDepartment === 'All' ||
+      facultyDeptCanonical === normalizedCurrent ||
+      facultyDeptCanonical.includes(normalizedCurrent) ||
+      normalizedCurrent.includes(facultyDeptCanonical);
+
     return matchesSearch && matchesDepartment;
   });
   
