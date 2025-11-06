@@ -48,7 +48,7 @@ function showLoading(show) {
     facultyGrid.style.display = 'none';
   } else {
     loadingSpinner.classList.add('hidden');
-    facultyGrid.style.display = 'grid';
+    facultyGrid.style.display = 'block';
   }
 }
 
@@ -64,50 +64,42 @@ function renderFacultyCards() {
   noResults.style.display = 'none';
   
   filteredFaculty.forEach(faculty => {
-    const card = createFacultyCard(faculty);
-    facultyGrid.appendChild(card);
+    const item = createFacultyCard(faculty);
+    facultyGrid.appendChild(item);
   });
 }
 
 // ===== CREATE FACULTY CARD =====
 function createFacultyCard(faculty) {
-  const card = document.createElement('div');
-  card.className = 'faculty-card';
-  card.onclick = () => openModal(faculty);
-  
+  // Compact list item with thumbnail on the left
+  const item = document.createElement('div');
+  item.className = 'faculty-list-item';
+  item.onclick = () => openModal(faculty);
+
   const availabilityClass = faculty.availability ? 'available' : 'busy';
+  // Show clear availability label in list (dot + text)
   const availabilityText = faculty.availability ? '● Available' : '● Busy';
-  
-  card.innerHTML = `
-    <div class="card-header">
-      <img src="${faculty.photo}" alt="${faculty.name}" class="card-photo">
-      <span class="availability-badge ${availabilityClass}">${availabilityText}</span>
-    </div>
-    <div class="card-body">
-      <h3 class="card-name">${faculty.name}</h3>
-      <p class="card-designation">${faculty.designation}</p>
-      <p class="card-department">${faculty.department}</p>
-      
-      <div class="card-info">
-        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-        </svg>
-        <span>${faculty.location}</span>
+
+  item.innerHTML = `
+    <img src="${faculty.photo}" alt="${faculty.name}" class="list-photo">
+    <div class="list-body">
+      <div class="list-top">
+        <div>
+          <div class="list-name">${faculty.name}</div>
+          <div class="list-meta">${faculty.designation} • <span class="list-dept">${faculty.department}</span></div>
+        </div>
+        <div class="list-right">
+          <span class="availability-badge ${availabilityClass}" role="status" aria-label="${availabilityText}">${availabilityText}</span>
+        </div>
       </div>
-      
-      <div class="card-info">
-        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
-        </svg>
-        <span style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">${faculty.email}</span>
+      <div class="list-bottom">
+        <span class="list-location">${faculty.location}</span>
+        <span class="list-email">${faculty.email}</span>
       </div>
-      
-      <button class="card-btn">View Details</button>
     </div>
   `;
-  
-  return card;
+
+  return item;
 }
 
 // ===== OPEN MODAL WITH FACULTY DETAILS =====
