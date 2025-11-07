@@ -5,14 +5,14 @@ Our project is designed for JIIT 62 students and faculty. It helps users easily 
 
 • Checkout our hosted website -> https://the-algoholics.onrender.com/
 
-More Connected Repositories:
+**More Connected Repositories:**
 
 • Link for project finder -> https://github.com/garvbatra06/project-finder.git
 
 • Link for Chatbot Navigator -> https://github.com/NaishaSharma09/campus_navbot.git\
 
 
-Contributors:
+**Contributors:**
 
 Arushi Jain 
 
