@@ -1,6 +1,6 @@
 # The-Algoholics-
 
-#Campus Link
+Campus Link ->
 Our project is designed for JIIT 62 students and faculty. It helps users easily find professors, check their availability, and locate cabins. It also links to the PROJECT COLLABORATION PORTAL for team formation and a COLLEGE MAP NAVIGATOR, making campus interactions faster, smarter, and more convenient.
 
 Link for project finder -> https://github.com/garvbatra06/project-finder.git
