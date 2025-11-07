@@ -12,12 +12,12 @@ Link for project finder -> https://github.com/garvbatra06/project-finder.git
 Link for Chatbot Navigator -> https://github.com/NaishaSharma09/campus_navbot.git\
 
 
-Contribution:
+Contributors:
 
-Professor Locator : Arushi Jain & Shresth Mishra
+Arushi Jain 
 
-Data Collection : All the team members
+Garv Batra
 
-Navigator & PPT : Naisha Sharma
+Naisha Sharma
 
-Hackathon Team Maker : Garv Batra
+Shresth Mishra
