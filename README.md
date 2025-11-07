@@ -2,11 +2,14 @@
 
 Campus Link ->
 Our project is designed for JIIT 62 students and faculty. It helps users easily find professors, check their availability, and locate cabins. It also links to the PROJECT COLLABORATION PORTAL for team formation and a COLLEGE MAP NAVIGATOR, making campus interactions faster, smarter, and more convenient.
-
 Checkout our hosted website -> https://the-algoholics.onrender.com/
 
 More Connected Repositories:
-
 Link for project finder -> https://github.com/garvbatra06/project-finder.git
+Link for Chatbot Navigator -> https://github.com/NaishaSharma09/campus_navbot.git\
 
-Link for Chatbot Navigator -> https://github.com/NaishaSharma09/campus_navbot.git
+Contribution:
+Professor Locator : Arushi Jain & Shresth Mishra
+Data Collection : All the team members
+Navigator & PPT : Naisha Sharma
+Hackathon Team Maker : Garv Batra
