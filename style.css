@@ -482,6 +482,19 @@ body.dark-mode .faculty-list-item {
   color: white;
 }
 
+/* Ensure list item's availability badge is inline and always visible
+   (override the absolute positioning used for cards) */
+.faculty-list-item .availability-badge {
+  position: static;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.25rem 0.6rem;
+  font-weight: 600;
+  font-size: 0.8rem;
+  margin-left: 0.5rem;
+}
+
 .faculty-card {
   background: var(--bg-card-light);
   border-radius: 1.5rem;
