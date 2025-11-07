@@ -225,10 +225,46 @@ if (localStorage.getItem('darkMode') === 'true') {
   document.body.classList.add('dark-mode');
 }
 
+// ===== AUTO UPDATE AVAILABILITY BASED ON TIME =====
+async function autoUpdateAvailability() {
+  const now = new Date();
+  const hour = now.getHours();
+
+  // Fetch current data
+  const response = await fetch('/api/faculty');
+  const data = await response.json();
+
+  // Case 1: Between 5pm–9am → All unavailable
+  if (hour >= 17 || hour < 8) {
+    data.forEach(faculty => faculty.availability = false);
+  } 
+  // Case 2: Between 9am–5pm → Randomly assign 35% available
+  else {
+    data.forEach(faculty => {
+      faculty.availability = Math.random() < 0.35; // 35% chance true
+    });
+  }
+
+  // Save updated data back to backend (faculty.json)
+  await fetch('/api/updateFacultyAvailability', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(data)
+  });
+
+  // Update global arrays and re-render UI
+  allFaculty = data;
+  filteredFaculty = data;
+  renderFacultyCards();
+}
 // Fetch faculty data when page loads
-document.addEventListener('DOMContentLoaded', () => {
-  fetchFacultyData();
+document.addEventListener('DOMContentLoaded', async () => {
+  await fetchFacultyData();
+  await autoUpdateAvailability();
+  // Repeat every 10 minutes to stay updated
+  setInterval(autoUpdateAvailability, 10 * 60 * 1000);
 });
+
 
 // ===== SMOOTH SCROLL (OPTIONAL) =====
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
